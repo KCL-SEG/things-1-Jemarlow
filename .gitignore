@@ -318,3 +318,4 @@ staticfiles
 *.pyproj
 *.user
 /obj/Any CPU/Debug
+*.sln
