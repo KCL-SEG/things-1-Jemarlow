@@ -19,5 +19,5 @@ from things import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('things/', views.things_view, name="things_view")
+    path('', views.things_view, name="things_view")
 ]
