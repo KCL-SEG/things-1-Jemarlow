@@ -314,3 +314,7 @@ pip-selfcheck.json
 staticfiles
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,macos,linux,windows
+/.vs
+*.pyproj
+*.user
+/obj/Any CPU/Debug
